@@ -1,5 +1,6 @@
 ---
 applications:
 - name: simple
+  path: ./
 buildpacks:
 - staticfile_buildpack
