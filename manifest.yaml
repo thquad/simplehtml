@@ -1,3 +1,5 @@
 ---
 applications:
 - name: simple
+buildpacks:
+- staticfile_buildpack
