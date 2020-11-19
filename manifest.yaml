@@ -2,5 +2,5 @@
 applications:
 - name: simple
   path: ./
-buildpacks:
-- staticfile_buildpack
+  buildpacks:
+  - staticfile_buildpack
